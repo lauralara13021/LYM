@@ -1,0 +1,4 @@
+Para ejecutar el programa se debe poner la dirección del archivo de texto a leer
+en la linea 155 donde dice archivoALeer = '' dentro de las comillas.
+
+Y ejecutarlo por consola con el comando 'python3 p0.py'
